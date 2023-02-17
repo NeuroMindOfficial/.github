@@ -19,3 +19,7 @@ Please see the [resources](https://github.com/orgs/CleanSoftwareSolution/reposit
 
 ## Support
 You can join the [official discord server](https://discord.gg/3XGGSecfbR) for support.
+
+## Donations:
+You can donate here and support the company so that we can improve even more.
+[PayPal](https://www.paypal.com/donate/?hosted_button_id=KC86K3U65WSJA)
