@@ -6,7 +6,7 @@ CleanSoftwareSolution is a Reverse Engineer and Cyber Security Education Company
 ## Members
 [SryNext](https://github.com/SryNext): 
 **CEO / Chief Executive** 
-Started CleanSoftwareSolution in his middle 20's and since then he has made significant changes in the world of reverse engineering.
+Started CleanSoftwareSolution in his middle 20's.
 
 [harryone987](https://github.com/harryone987):**Co-Founder / Chief of Operations** [SryNext](https://github.com/SryNext) right hand man, getting work done so he can continue to prosper.
 
