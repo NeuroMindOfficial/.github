@@ -1,25 +1,26 @@
-This is the official CleanSoftwareSolution github organization! Here you can see our different open-source projects. Feel free to make a pull request and contribute!
+# NeuroMind
+
+Welcome to the official NeuroMind GitHub organization! Here you can find our various open-source projects. Feel free to contribute by creating pull requests.
 
 ## Overview
-CleanSoftwareSolution is a Reverse Engineer and Cyber Security Education Company created by [SryNext](https://github.com/SryNext) and co-founded by [harryone987](https://github.com/harryone987). We make everything from game hacking to remote acces trojans, to discord bots, to an advanced cryptographic framework!
 
-## Members
-[SryNext](https://github.com/SryNext): 
-**CEO / Chief Executive** 
-Started CleanSoftwareSolution in his middle 20's.
+NeuroMind is a Machine Learning, Reverse Engineering, and Cyber Security Education company founded by SryNext and co-founded by harryone987. We create everything from game hacks to remote access trojans, ki bots, Discord bots, and an advanced cryptographic framework.
 
-[harryone987](https://github.com/harryone987):**Co-Founder / Chief of Operations** [SryNext](https://github.com/SryNext) right hand man, getting work done so he can continue to prosper.
+### Members
 
-[DonSchland](https://github.com/DonSchland):
-**Sponsor**
-Special Thanks to my longtime friend [DonSchland](https://github.com/DonSchland) who has supported me from the start and made a lot of things possible!
+* **SryNext:** CEO / Chief Executive, started NeuroMind in his mid-20s.
+* **harryone987:** Co-Founder / Chief of Operations, SryNext's right-hand man, getting work done so he can continue to prosper.
+* **DonSchland:** Sponsor. Special thanks to my longtime friend DonSchland who has supported me from the start and made a lot of things possible!
 
-## Resources
-Please see the [resources](https://github.com/orgs/CleanSoftwareSolution/repositories) repository to see a list of tools.
+### Resources
 
-## Support
-You can join the [official discord server](https://discord.gg/3XGGSecfbR) for support.
+Please see the [resources repository](https://github.com/CleanSoftwareSolution/resources) to see a list of tools.
 
-## Donations:
-You can donate here and support the company so that we can improve even more.
-[PayPal](https://www.paypal.com/donate/?hosted_button_id=KC86K3U65WSJA)
+### Support
+
+You can join the [official Discord server](https://discord.gg/CleanSoftwareSolution) for support.
+
+### Donations
+
+You can donate [here](https://www.paypal.com/donate/?hosted_button_id=XXXXXXX) and support the company so that we can improve even more.
+
