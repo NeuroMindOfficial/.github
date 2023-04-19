@@ -4,7 +4,7 @@ Welcome to the official NeuroMind GitHub organization! Here you can find our var
 
 ## Overview
 
-NeuroMind is a Machine Learning, Reverse Engineering, and Cyber Security Education company founded by SryNext and co-founded by harryone987. We create everything from game hacks to remote access trojans, ki bots, Discord bots, and an advanced cryptographic framework.
+NeuroMind is a Machine Learning, Reverse Engineering, and Cyber Security Education company founded by SryNext and co-founded by harryone987. We create everything from game hacks to remote access trojans, ki bots, Discord bots, and an advanced cryptographic framework. In addition, we offer a wide range of coaching services for our clients.
 
 ### Members
 
